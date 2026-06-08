@@ -105,6 +105,10 @@ This project helped in understanding:
 
 ![User Records](screenshots/table_page.png)
 
+## Task Demo Video
+
+[Watch Demo Video](demo_video/Demo_video.mp4)
+
 ## Author
 
 Moulika Tenali
