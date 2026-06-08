@@ -95,6 +95,16 @@ This project helped in understanding:
 * Pagination
 * Dashboard Statistics
 
+## Screenshots
+
+### Home Page
+
+![Home Page](screenshots/form_page.png)
+
+### User Records
+
+![User Records](screenshots/table_page.png)
+
 ## Author
 
 Moulika Tenali
